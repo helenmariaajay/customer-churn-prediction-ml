@@ -42,8 +42,8 @@ SHAP analysis was used to interpret model predictions.
 ### ROC Curve
 ![ROC](fig5.png)
 
-## Research Paper
-See full paper in `paper/`
+## 📄 Research Paper
+[View Paper](paper/set2026_Helen.pdf)
 
 ## Tech Stack
 - Python
