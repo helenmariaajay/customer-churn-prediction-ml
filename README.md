@@ -37,10 +37,10 @@ SHAP analysis was used to interpret model predictions.
 
 ## 📷 Visualizations
 ### SHAP Plot
-![SHAP](images/shap_plot.png)
+![SHAP](images/fig1.png)
 
 ### ROC Curve
-![ROC](images/roc_curve.png)
+![ROC](images/fig5.png)
 
 ## 📄 Research Paper
 See full paper in `paper/`
