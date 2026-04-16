@@ -35,22 +35,22 @@ SHAP analysis was used to interpret model predictions.
 - Short tenure → higher churn risk
 - Long-term contracts → reduced churn
 
-## 📷 Visualizations
+## Visualizations
 ### SHAP Plot
-![SHAP](images/fig1.png)
+![SHAP](fig1.png)
 
 ### ROC Curve
-![ROC](images/fig5.png)
+![ROC](fig5.png)
 
-## 📄 Research Paper
+## Research Paper
 See full paper in `paper/`
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - XGBoost
 - SHAP
 
-## 👤 Author
+## Author
 Helen Maria Ajay
