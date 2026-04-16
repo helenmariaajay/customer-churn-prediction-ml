@@ -1,2 +1,2 @@
 # customer-churn-prediction-ml
-Intelligent Customer Churn Prediction using Ensemble Learning, Explainable AI (SHAP), and Cost-Sensitive Optimization
+ML-based churn prediction using XGBoost, SHAP and cost-sensitive optimization
