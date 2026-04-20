@@ -43,7 +43,7 @@ SHAP analysis was used to interpret model predictions.
 ![ROC](fig5.png)
 
 ## 📄 Research Paper
-[View Paper](paper/set2026_Helen.pdf)
+[View Paper](set2026_Helen.pdf)
 
 ## Tech Stack
 - Python
